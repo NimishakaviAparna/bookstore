@@ -11,3 +11,4 @@ cd demo
 ./mvnw spring-boot run
 
 ft: npm start
+sql pass: neeta#17
